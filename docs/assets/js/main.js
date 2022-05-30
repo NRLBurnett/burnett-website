@@ -52,7 +52,7 @@ function replaceEmail(){
             const ord = [13, 0, 19, 4, 36, 13, 17, 11, 1, 20, 17, 13, 4, 19, 19, 37, 2, 14, 12];
 
             for (let i = 0; i < ord.length; ++i ){
-                eml += set[i];
+                eml += set[ord[i]];
             }
 
             anchor.href = 'mailto:' + eml;
