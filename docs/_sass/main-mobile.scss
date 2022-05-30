@@ -1,0 +1,155 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (max-width: 360px) {
+  .nrlb_content .mcea_page h1 {
+    font-size: 16.25pt !important;
+  }
+  .nrlb_fs_01 legend {
+    font-size: 1.02em !important;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  .nrlb_fs_01 legend {
+    font-size: 4.7vw;
+  }
+}
+
+@media only screen and (max-width: 525px){
+  .nrlb_logo_padding {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 599px){
+  .nrlb_content_wai {
+    clear: both;
+    margin-left: 0px;
+  }
+  .nrlb_content_wr {
+    clear: both;
+    margin-left: 0px;
+  }
+  .concerns_page {
+    clear: both;
+    margin-left: 0px;
+  }
+}
+
+@media only screen and (max-width: 620px){
+  .mcea_page img{
+    float: none !important;
+    display: block;
+  }
+  .nrlb_content .mcea_page h1 {
+    font-size: 6vw;
+    display: block;
+    clear: both;
+  }
+  div.mcea_faq_answer {
+    margin-left: 50px;
+  }
+  div.mcea_page h2 {
+    margin: 0 0 0 25px;
+  }
+}
+
+@media only screen and (max-width: 660px){
+  .nofloat660{
+    float: none !important;
+  }
+}
+
+@media only screen and (max-width: 670px){
+  .nofloat670{
+    float: none !important;
+  }
+}
+
+@media only screen and (max-width: 810px){
+  .nrlb_tabs {
+    width: 55px;
+    height: 45px;
+    margin-top: 0;
+    background-color: #FFFFFF;
+    transition: unset;
+    position: unset;
+    float: right;
+    transition: ease-in .3s;
+  }
+  .nrlb_tabs:after {
+    display: none;
+  }
+  .nrlb_tabs ul {
+    padding-top: 5px;
+    display: initial;
+    position: absolute;
+    right: 5px;
+  }
+  .nrlb_tabs ul li {
+    display: none;
+    color: #3274A5;
+  }
+  .nrlb_tabs ul li:first-child {
+    margin-bottom: 20px;
+    display: list-item;
+  }
+  .nrlb_tabs ul li:before {
+    content: "";
+  }
+  .nrlb_tabs.expanded {
+    width: 150px;
+    height: 180px;
+    background-color: #3274A5;
+  }
+  .nrlb_tabs.expanded ul li {
+    display: list-item;
+    color: #FFFFFF;
+  }
+  .nrlb_header_padding:hover .nrlb_dist {
+    color: #000000;
+  }
+}
+
+@media only screen and (min-width: 891px ){
+  .nrlb_dist {
+    font-size: .9em;
+    line-height: 1.4em;
+  }
+  .nrlb_portrait img {
+    height: 160px;
+  }
+  .nrlb_title p.nrlb_given {
+    font-size: 36pt;
+    line-height: 32pt;
+  }
+  .nrlb_title p.nrlb_surn {
+    font-size: 46pt;
+    line-height: 44pt;
+  }
+  .nrlb_header {
+    height: 130px;
+  }
+  .nrlb_header_padding {
+    height: 200px;
+  }
+  .nrlb_logo img {
+    height: 110px;
+  }
+  .nrlb_portrait_padding {
+    padding: 20px;
+  }
+  .nrlb_title_padding {
+    padding: 20px 0;
+  }
+  .nrlb_content_padding {
+    padding-top: 190px;
+  }
+}
+
+@media only screen and (min-width: 1100px) {
+  div.nrlb_title_eat {
+    font-size: 4.9em !important;
+  }
+}

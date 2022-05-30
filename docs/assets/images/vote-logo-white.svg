@@ -1,0 +1,27 @@
+<svg width="250" height="130" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <title>Election Dates</title>
+        <text font-weight="bold" xml:space="preserve" font-family="Arial, sans-serif" font-size="170" id="svg_1" y="127.5" x="0" stroke-width="0" stroke="#000" fill="#3274a5">22</text>
+        <text stroke="#000" xml:space="preserve" font-family="'Times New Roman', Times, serif" font-size="16" id="svg_6" y="32.5" x="49" stroke-width="0" fill="#ffffff">Primary</text>
+        <text style="cursor: move;" stroke="#000" xml:space="preserve" font-family="'Times New Roman', Times, serif" font-size="26" id="svg_4" y="55.524984" x="49" stroke-width="0" fill="#ffffff">06-14-2022</text>
+        <text stroke="#000" xml:space="preserve" font-family="'Times New Roman', Times, serif" font-size="16" id="svg_7" y="89.50877" x="49" stroke-width="0" fill="#ffffff">Election</text>
+        <text stroke="#000" xml:space="preserve" font-family="'Times New Roman', Times, serif" font-size="26" id="svg_2" y="112.533754" x="49" stroke-width="0" fill="#ffffff">11-08-2022</text>
+
+        <g stroke="null" id="svg_30">
+            <g stroke="null" transform="matrix(0.11848181702662477,0,0,0.11848181702662477,-378.53872721819096,-190.39283431557004) " id="svg_29">
+                <g stroke="null" id="svg_28">
+                    <rect stroke="#ffffff" fill="none" fill-rule="evenodd" stroke-width="12" stroke-miterlimit="4" id="svg_26" y="1938.510606" x="3421.658601" height="147.31801" width="147.31801"/>
+                    <path fill="#00ffff" fill-rule="evenodd" stroke-width="1px" id="svg_27" d="m3418.303284,1990.098339c20.481853,-19.73658 34.391835,-31.31614 51.587753,-46.97421c0,0 18.034744,41.94126 25.164754,72.13897c32.71419,-94.78726 58.29836,-155.602088 106.95022,-196.285113c-3.3553,46.974215 -5.87177,64.170132 2.51648,103.175503c-29.7783,15.09886 -71.71956,87.65724 -105.69198,163.57093c-34.391836,-57.87894 -63.33131,-86.81841 -80.527227,-95.62608z"/>
+                </g>
+            </g>
+        </g>
+        <g stroke="null" id="svg_25">
+            <g stroke="null" transform="matrix(0.11848181702662477,0,0,0.11848181702662477,-378.53872721819096,-190.39283431557004) translate(0, 0)" id="svg_20">
+                <g stroke="null" id="svg_21">
+                    <rect stroke="#ffffff" fill="none" fill-rule="evenodd" stroke-width="12" stroke-miterlimit="4" id="svg_23" y="2437.120622" x="3421.658601" height="147.31801" width="147.31801"/>
+                    <path fill="#00ffff" fill-rule="evenodd" stroke-width="1px" id="svg_22" d="m3418.303284,2488.708355c20.481853,-19.73658 34.391835,-31.31614 51.587753,-46.97421c0,0 18.034744,41.94126 25.164754,72.13897c32.71419,-94.78726 58.29836,-155.602088 106.95022,-196.285113c-3.3553,46.974215 -5.87177,64.170132 2.51648,103.175503c-29.7783,15.09886 -71.71956,87.65724 -105.69198,163.57093c-34.391836,-57.87894 -63.33131,-86.81841 -80.527227,-95.62608z"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
