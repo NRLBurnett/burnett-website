@@ -7,5 +7,5 @@ layout: site-template
 showMceaButton: true
 ---
 <div class="vote_page">
-    <img src="assets/images/vote-logo-black.svg" class="vote_page_image">
+    <img src="assets/images/sendNate.png" class="vote_page_image">
 </div>
