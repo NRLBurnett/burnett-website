@@ -22,7 +22,7 @@ In separating from SVHS, I took off those hats, but within the community, I'm st
 <!--<br><br>
 I met my wife working at a summer camp outside Augusta and we got married in 2016. It was a perfect late summer day at Maple Rock Farm in Parsonsfield. Outside of work, we enjoy camping, kayaking, the Ossipee Valley Music Festival and our two cats and I personally enjoy cooking, reading and brewing all-grain beer with my brother. On our two acres in Hiram, I'm even cultivating a little vineyard! Hopefully the birds are nicer to me this year, though with my plans for doors this summer, I think they’ll get less attention than they would want to be productive… -->
 <br><br>
-These are the things that make me, me. I'm ready to learn, and lead. Over the next months leading up to November 3rd, I look forward to meeting the residents of senate district 22 and getting to learn even more about the place I’m working to represent. If there is an issue near to your heart, please reach out and request a meeting. 
+These are the things that make me, me. I'm ready to learn, and lead. Over the next months leading up to November 3rd, I look forward to meeting the residents of Senate District 22 and getting to learn even more about the place I’m working to represent. If there is any concerns or issues near and dear to your heart, please reach out and request a meeting. 
 </span>
     </fieldset>
     <p></p>
