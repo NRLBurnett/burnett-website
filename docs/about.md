@@ -8,9 +8,9 @@ showMceaButton: true
     <p></p>
     <fieldset class="nrlb_fs_01">
         <legend>Who am I?</legend>
-            <span><img class="nofloat670" src="/assets/images/walking_full.jpg">I was born in Australia, and moved to Maine when I was 14 to be closer to my mother's family. I graduated from Presque Isle High School and then the University of Maine with a bachelor's degree in economics.
+            <span><img class="nofloat670" src="/assets/images/walking_full.jpg">I was born in Australia, and moved to Aroostook County when I was 14 to be closer to my mother's family. I graduated from Presque Isle High School and then the University of Maine with a bachelor's degree in economics.
 <br><br>
-In 2012, I began teaching math and computer science at Sacopee Valley High School and in 2016 my wife and I bought a home in the district. I am proud to call Hiram home. I consider myself a lifelong learner and try to instill that mentality in the students I am fortunate enough to teach. 
+<!--In 2012,--> I began teaching math and computer science at Sacopee Valley High School and <!--in 2016--> my wife and I bought a home in the district. I am proud to call Hiram home. I consider myself a lifelong learner and try to instill that mentality in the students I am fortunate enough to teach. 
 <br><br>
 In March of 2025, the enrollment numbers at Sacopee Valley School District were such that the difficult decision to cut a math teacher was made. It wasn’t going to be me, but it would be one of my coworkers. At almost that exact same time, I was found myself with the opportunity to beginning a masters program in mathematics at the University of Maine. It would be a pay cut, but it would be an exciting opportunity to return to my alma mater, and permit a colleague to keep her job in district. A relative win-win! 
 <br><br>
