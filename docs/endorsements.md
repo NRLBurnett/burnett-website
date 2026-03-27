@@ -5,7 +5,8 @@ showMceaButton: true
 ---
 
 <div class="endorsements_page">
-    <p>I’m proud to have been endorsed by the following organisations. I look forward to working together with them to work on meaningful legislation as we work through the recovery and rebuilding from the COVID-19 global pandemic.<br><br></p>
+    <p>Endorsements coming soon...<br><br></p>
+    <!--
     <fieldset class="nrlb_fs_01">
         <legend>MEA</legend>
             <span>
@@ -59,6 +60,7 @@ showMceaButton: true
         <span>
             <img src="/assets/images/mpa_logo.jpg">
             <a href="https://www.mainepeoplesalliance.org/">https://www.mainepeoplesalliance.org/</a>
+    -->
         </span>
     </fieldset>
     <p></p>
