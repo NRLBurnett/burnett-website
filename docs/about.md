@@ -16,7 +16,7 @@ In March of 2025, the enrollment numbers at Sacopee Valley School District were 
 <br><br>
 Then in May of 2025, this senate seat opened up. I had to jump at it. I’m putting my studies on pause at the end of this first year of the program, but have a plan with the department to return to finish the program in the future.
 <br><br>
-While I was at Sacopee Valley school system, I chaired the math department and lead the junior class trip to Quebec each March. I was the vice president of the Tri-County Teachers Association and was the statistician for our contract negotiations team. Through my work the Maine Education Association, I was elected and then appointed to the Board of Trustees for the Maine Public Employees Retirement Service, where I did my part in stewarding the $21 billion trust fund for all state employees. 
+While I was at Sacopee Valley school system, I chaired the math department and lead the junior class trip to Quebec each March. I was the vice president of the Tri-County Teachers Association and was the statistician for our contract negotiations team. Through my work the Maine Education Association, I was elected and then appointed to the Board of Trustees for the Maine Public Employees Retirement Service, where I did my part in stewarding the twenty one billion dollar trust fund for all state employees. 
 <br><br>
 In separating from SVHS, I took off those hats, but I'm elected to the Hiram Conservation Committee, and a director for the Francis Small Heritage Trust, our local land trust. I’m the treasurer of Porter Grange #569, and my wife and I are on the board for the Ossipee Valley Music Festival, where we organize and run the front gate.
 <!--<br><br>
