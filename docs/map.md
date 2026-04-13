@@ -8,7 +8,7 @@ showMceaButton: true
     <p></p>
     <fieldset class="nrlb_fs_01">
         <legend>District</legend>
-            <span><img class="nofloat670" src="SD22.png">
+            <span><img class="nofloat670" src="SD22.jpeg">
 </span>
     </fieldset>
     <p></p>
