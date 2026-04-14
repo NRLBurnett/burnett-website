@@ -17,7 +17,7 @@ There is an ‘first principles’ positive feedback loop of:
 
 It's obviously not this simple, but this observation is a place to start the conversation.
 <br><br>
-Continuing to push our federally elected officials to work toward repealing the GPO (Government Pension Offset) and the WEP (Windfall Elimination Provision) would also a priority of mine. These two programs are relics of simpler time and whatever the cost, they are costing people money that they earned.
+
 
 </span></fieldset><br><fieldset class="nrlb_fs_01"><legend>The&nbsp;&nbsp;Environment</legend><span><br><br>
 Both solar issues and divestment from fossil fuels are serious issues that are affecting our state and our planet. When I was last in Australia, 2 years ago visiting my father, the Great Barrier Reef of my childhood, and that we all saw in Finding Nemo, was in crisis. Climate change is real and is happening at an alarming rate. We are lucky to have a solar company in our district, in Hiram. The voting record of our legislator has affected their ability to do their job and it has impacted the investment and adoption of solar and green technologies that we need to be making.
